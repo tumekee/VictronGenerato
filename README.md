@@ -1,7 +1,7 @@
 # Automatic-Generator
 automatically start and stop a generator with a simple on off signal
 
-This code has been specifically designed to work with Victron inverter that has programmable I/O pins and a Cerbo GX.
+This code has been specifically designed to work with Victron a inverter that has programmable I/O pins and a Cerbo GX.
 
 
 ![info](https://github.com/tumekee/VictronGenerator/assets/20364311/0082b7a7-cda3-472e-838d-efcc58ef6d83)
