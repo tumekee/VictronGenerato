@@ -10,10 +10,15 @@ This code has been specifically designed to work with Victron a inverter that ha
 
 This system is designed for generators that don’t have a “2 PIN” start switch. These systems normally work by simply bridging 2 pins or wires to tell the the generator to start or stop via its own starting and stopping conditions and procedure. This works well with a Victron Cerbo as the generator START/STOP function only opens and closes a relay.
 The problem is most generators aren’t that smart and will only have the same controls as a normal electric start engine; ON, START , OFF ( like a key start ), often via an external starting plug or “ATS” plug.  simply opening and closing a relay is not enough to start these types of generators as there are a lot of factors to consider when starting and stopping a generator.
+
 •	Turning the engine to “on”
+
 •	Starting times.
+
 •	Generator running detection. 
+
 •	Disconnecting loads before shutting down 
+
 •	(and more ) 
  
 This code has been specifically designed to work with Victron inverter that has programmable I/O pins and a Cerbo GX.
