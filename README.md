@@ -4,7 +4,8 @@ automatically start and stop a generator with a simple on off signal
 This code has been specifically designed to work with Victron inverter that has programmable I/O pins and a Cerbo GX.
 
 
-![info](https://github.com/tumekee/Automatic-Generator/assets/20364311/b878d5cd-f940-4ecc-b4fb-9abc4600d1b2)
+![info](https://github.com/tumekee/VictronGenerator/assets/20364311/0082b7a7-cda3-472e-838d-efcc58ef6d83)
+
 
 
 This system is designed for generators that don’t have a “2 PIN” start switch. These systems normally work by simply bridging 2 pins or wires to tell the the generator to start or stop via its own starting and stopping conditions and procedure. This works well with a Victron Cerbo as the generator START/STOP function only opens and closes a relay.
